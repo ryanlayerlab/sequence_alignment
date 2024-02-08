@@ -1,5 +1,4 @@
-# local_alignment
-Local sequence alignment
+# Global and local sequence aligment
 
 ## Usage
 
